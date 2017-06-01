@@ -27,7 +27,6 @@ setup(
     author='Abdul',
     author_email='aghafoor@tssg.org',
     url='https://github.com/agmahoon/whatep',
-    install_requires=required,
     license='MIT',
     classifiers=[
         'Intended Audience :: Developers',
